@@ -1,0 +1,17 @@
+#name{
+    color: #921A40;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Merriweather, serif;
+}
+
+#AboutMe{
+    color: #B60071;
+    font-family: Merriweather, serif;
+    font-size: 20px;
+}
+
+.AMe{
+    text-align: center;
+    color: #921A40;
+}
